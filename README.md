@@ -19,6 +19,7 @@ To address the business question How can Cyclistic convert casual riders into an
     * Ride Preferences: Compare ride lengths, types, and purposes.
 
 **IV. Key Insights** 
+
 Please refer to the visualisation dashboard here: https://lookerstudio.google.com/reporting/90267a49-ea7f-4902-814a-aaa2d53c51b2 
 1. Usage Patterns:
     * Annual Members:
